@@ -1,4 +1,4 @@
-# Heeey, nice of you to stop by 👋🏼
+# Hey there 👋🏼
 
 ## Studying Front End Developer at Medieinstitutet in Malmö, Sweden 2022-2024 👨🏼‍🎓
 
