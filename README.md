@@ -1,6 +1,5 @@
 # Hey there 👋🏼
-
-## Studying Front End Developer at Medieinstitutet in Malmö, Sweden 2022-2024 👨🏼‍🎓
+### Software developer at Hushållningssällskapet i Skåne.
 
 ### Primary skills:
 ### [![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,js,ts,firebase,vite)](https://skillicons.dev)
