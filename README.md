@@ -2,10 +2,10 @@
 ### Software developer at Hushållningssällskapet i Skåne.
 
 ### Primary skills:
-### [![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,js,ts,firebase,vite)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,firebase,vite)](https://skillicons.dev)
 
 #### Secondary skills: 
-### [![My Skills](https://skillicons.dev/icons?i=redux,prisma,nodejs,express,mysql,ai,ps,figma)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=html,css,redux,prisma,express,mysql,ai,ps,figma,sass)](https://skillicons.dev)
 
 
 <!--
