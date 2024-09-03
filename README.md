@@ -1,5 +1,5 @@
 # Hey there 👋🏼
-### Software developer at Hushållningssällskapet i Skåne.
+### Junior Software Engineer at INGKA Group | IKEA
 
 ### Primary skills:
 ### [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,firebase,vite)](https://skillicons.dev)
