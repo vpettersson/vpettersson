@@ -1,4 +1,4 @@
-# Hey there 👋🏼
+# Hej! 👋🏼
 ### Junior Software Engineer at INGKA Group | IKEA
 
 ### Primary skills:
